@@ -10,5 +10,6 @@
         <maven.compiler.release>24</maven.compiler.release>
         <exec.mainClass>org.centrale.objet.WoE.ProjetTP</exec.mainClass>
         <sonar.organization>test-sonar-mathys</sonar.organization>
+        <maven.compiler.release>17</maven.compiler.release>
     </properties>
 </project>
